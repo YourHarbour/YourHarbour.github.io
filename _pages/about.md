@@ -14,6 +14,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-PhD student at King's-CSC program at King's College London. Supervisory by Dr. Steffen Zschaler. Interested in the conversion of Healthcare DSML to simulation models of hospital emergency processes and usability engineering of model usage.
+PhD student at King's-CSC program at King's College London. 
+
+Supervisory by Dr. Steffen Zschaler. 
+
+Interested in the conversion of Healthcare DSML to simulation models of hospital emergency processes and usability engineering of model usage.
 
 
